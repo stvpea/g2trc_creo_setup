@@ -1,0 +1,4806 @@
+V4.0
+#
+#
+# PGL Version 4.0
+#
+#
+# material name
+material_name "ref_color2"
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.900000
+# ambient
+ambient 0.900000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.250000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1000"
+# ambient color
+ambient_color 0.839000 0.780000 0.580000 1.000000
+# diffuse color
+diffuse_color 0.839000 0.780000 0.580000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.300000
+# ambient
+ambient 0.950000
+# shine
+shine 1.000000
+# shine intensity
+intensity 0.050000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1001"
+# ambient color
+ambient_color 0.851000 0.729000 0.549000 1.000000
+# diffuse color
+diffuse_color 0.851000 0.729000 0.549000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1002"
+# ambient color
+ambient_color 0.839000 0.690000 0.459000 1.000000
+# diffuse color
+diffuse_color 0.839000 0.690000 0.459000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1003"
+# ambient color
+ambient_color 0.988000 0.639000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.639000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "orange"
+# ambient color
+ambient_color 0.890000 0.588000 0.141000 1.000000
+# diffuse color
+diffuse_color 0.890000 0.588000 0.141000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1005"
+# ambient color
+ambient_color 0.788000 0.529000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.788000 0.529000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1006"
+# ambient color
+ambient_color 0.878000 0.510000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.878000 0.510000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1007"
+# ambient color
+ambient_color 0.890000 0.478000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.890000 0.478000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1011"
+# ambient color
+ambient_color 0.678000 0.478000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.678000 0.478000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1012"
+# ambient color
+ambient_color 0.890000 0.722000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.890000 0.722000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1013"
+# ambient color
+ambient_color 1.000000 0.961000 0.890000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.961000 0.890000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1014"
+# ambient color
+ambient_color 0.941000 0.839000 0.671000 1.000000
+# diffuse color
+diffuse_color 0.941000 0.839000 0.671000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1015"
+# ambient color
+ambient_color 0.988000 0.922000 0.800000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.922000 0.800000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1016"
+# ambient color
+ambient_color 1.000000 0.961000 0.259000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.961000 0.259000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1017"
+# ambient color
+ambient_color 1.000000 0.671000 0.349000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.671000 0.349000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1018"
+# ambient color
+ambient_color 1.000000 0.839000 0.302000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.839000 0.302000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1019"
+# ambient color
+ambient_color 0.639000 0.549000 0.478000 1.000000
+# diffuse color
+diffuse_color 0.639000 0.549000 0.478000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1020"
+# ambient color
+ambient_color 0.612000 0.561000 0.380000 1.000000
+# diffuse color
+diffuse_color 0.612000 0.561000 0.380000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1021"
+# ambient color
+ambient_color 0.988000 0.741000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.741000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1023"
+# ambient color
+ambient_color 0.988000 0.722000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.722000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1024"
+# ambient color
+ambient_color 0.710000 0.549000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.710000 0.549000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1026"
+# ambient color
+ambient_color 1.000000 1.000000 0.039000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.039000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1027"
+# ambient color
+ambient_color 0.600000 0.459000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.600000 0.459000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1028"
+# ambient color
+ambient_color 1.000000 0.549000 0.102000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.549000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1032"
+# ambient color
+ambient_color 0.890000 0.639000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.890000 0.639000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1033"
+# ambient color
+ambient_color 1.000000 0.580000 0.212000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.580000 0.212000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral1034"
+# ambient color
+ambient_color 0.969000 0.600000 0.361000 1.000000
+# diffuse color
+diffuse_color 0.969000 0.600000 0.361000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2000"
+# ambient color
+ambient_color 0.878000 0.369000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.878000 0.369000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2001"
+# ambient color
+ambient_color 0.729000 0.180000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.729000 0.180000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2002"
+# ambient color
+ambient_color 0.800000 0.141000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.141000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2003"
+# ambient color
+ambient_color 1.000000 0.388000 0.212000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.388000 0.212000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2004"
+# ambient color
+ambient_color 0.949000 0.231000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.949000 0.231000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral20005"
+# ambient color
+ambient_color 0.988000 0.110000 0.078000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.110000 0.078000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2007"
+# ambient color
+ambient_color 1.000000 0.459000 0.129000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.459000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2008"
+# ambient color
+ambient_color 0.980000 0.310000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.980000 0.310000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2009"
+# ambient color
+ambient_color 0.922000 0.231000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.922000 0.231000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2010"
+# ambient color
+ambient_color 0.831000 0.271000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.831000 0.271000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2011"
+# ambient color
+ambient_color 0.929000 0.361000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.929000 0.361000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral2012"
+# ambient color
+ambient_color 0.871000 0.322000 0.278000 1.000000
+# diffuse color
+diffuse_color 0.871000 0.322000 0.278000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3000"
+# ambient color
+ambient_color 0.671000 0.122000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.671000 0.122000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3001"
+# ambient color
+ambient_color 0.639000 0.090000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.639000 0.090000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3002"
+# ambient color
+ambient_color 0.639000 0.102000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.639000 0.102000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3003"
+# ambient color
+ambient_color 0.541000 0.071000 0.078000 1.000000
+# diffuse color
+diffuse_color 0.541000 0.071000 0.078000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3004"
+# ambient color
+ambient_color 0.412000 0.059000 0.078000 1.000000
+# diffuse color
+diffuse_color 0.412000 0.059000 0.078000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3005"
+# ambient color
+ambient_color 0.310000 0.071000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.310000 0.071000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3007"
+# ambient color
+ambient_color 0.180000 0.071000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.180000 0.071000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3009"
+# ambient color
+ambient_color 0.369000 0.129000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.369000 0.129000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3011"
+# ambient color
+ambient_color 0.471000 0.078000 0.090000 1.000000
+# diffuse color
+diffuse_color 0.471000 0.078000 0.090000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3012"
+# ambient color
+ambient_color 0.800000 0.510000 0.451000 1.000000
+# diffuse color
+diffuse_color 0.800000 0.510000 0.451000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3013"
+# ambient color
+ambient_color 0.588000 0.122000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.588000 0.122000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3014"
+# ambient color
+ambient_color 0.851000 0.400000 0.459000 1.000000
+# diffuse color
+diffuse_color 0.851000 0.400000 0.459000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3015"
+# ambient color
+ambient_color 0.910000 0.612000 0.710000 1.000000
+# diffuse color
+diffuse_color 0.910000 0.612000 0.710000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3016"
+# ambient color
+ambient_color 0.651000 0.141000 0.149000 1.000000
+# diffuse color
+diffuse_color 0.651000 0.141000 0.149000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3017"
+# ambient color
+ambient_color 0.820000 0.212000 0.329000 1.000000
+# diffuse color
+diffuse_color 0.820000 0.212000 0.329000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3018"
+# ambient color
+ambient_color 0.812000 0.161000 0.259000 1.000000
+# diffuse color
+diffuse_color 0.812000 0.161000 0.259000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3020"
+# ambient color
+ambient_color 0.780000 0.090000 0.071000 1.000000
+# diffuse color
+diffuse_color 0.780000 0.090000 0.071000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3022"
+# ambient color
+ambient_color 0.851000 0.349000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.851000 0.349000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3024"
+# ambient color
+ambient_color 0.988000 0.039000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.039000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3026"
+# ambient color
+ambient_color 0.988000 0.078000 0.078000 1.000000
+# diffuse color
+diffuse_color 0.988000 0.078000 0.078000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3027"
+# ambient color
+ambient_color 0.710000 0.071000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.710000 0.071000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral3031"
+# ambient color
+ambient_color 0.651000 0.110000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.651000 0.110000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4001"
+# ambient color
+ambient_color 0.510000 0.251000 0.502000 1.000000
+# diffuse color
+diffuse_color 0.510000 0.251000 0.502000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4002"
+# ambient color
+ambient_color 0.561000 0.149000 0.251000 1.000000
+# diffuse color
+diffuse_color 0.561000 0.149000 0.251000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4003"
+# ambient color
+ambient_color 0.788000 0.220000 0.549000 1.000000
+# diffuse color
+diffuse_color 0.788000 0.220000 0.549000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4004"
+# ambient color
+ambient_color 0.361000 0.031000 0.169000 1.000000
+# diffuse color
+diffuse_color 0.361000 0.031000 0.169000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4005"
+# ambient color
+ambient_color 0.388000 0.239000 0.612000 1.000000
+# diffuse color
+diffuse_color 0.388000 0.239000 0.612000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4006"
+# ambient color
+ambient_color 0.569000 0.059000 0.400000 1.000000
+# diffuse color
+diffuse_color 0.569000 0.059000 0.400000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4007"
+# ambient color
+ambient_color 0.220000 0.039000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.220000 0.039000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4008"
+# ambient color
+ambient_color 0.490000 0.122000 0.478000 1.000000
+# diffuse color
+diffuse_color 0.490000 0.122000 0.478000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4009"
+# ambient color
+ambient_color 0.620000 0.451000 0.580000 1.000000
+# diffuse color
+diffuse_color 0.620000 0.451000 0.580000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral4010"
+# ambient color
+ambient_color 0.749000 0.090000 0.451000 1.000000
+# diffuse color
+diffuse_color 0.749000 0.090000 0.451000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5000"
+# ambient color
+ambient_color 0.090000 0.200000 0.420000 1.000000
+# diffuse color
+diffuse_color 0.090000 0.200000 0.420000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5001"
+# ambient color
+ambient_color 0.039000 0.200000 0.329000 1.000000
+# diffuse color
+diffuse_color 0.039000 0.200000 0.329000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5002"
+# ambient color
+ambient_color 0.000000 0.059000 0.459000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.059000 0.459000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5003"
+# ambient color
+ambient_color 0.000000 0.090000 0.271000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.090000 0.271000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5004"
+# ambient color
+ambient_color 0.012000 0.051000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.012000 0.051000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5005"
+# ambient color
+ambient_color 0.000000 0.180000 0.478000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.180000 0.478000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5007"
+# ambient color
+ambient_color 0.149000 0.310000 0.529000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.310000 0.529000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5008"
+# ambient color
+ambient_color 0.102000 0.161000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.102000 0.161000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5009"
+# ambient color
+ambient_color 0.090000 0.271000 0.439000 1.000000
+# diffuse color
+diffuse_color 0.090000 0.271000 0.439000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5010"
+# ambient color
+ambient_color 0.000000 0.169000 0.439000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.169000 0.439000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5011"
+# ambient color
+ambient_color 0.012000 0.078000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.012000 0.078000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5012"
+# ambient color
+ambient_color 0.161000 0.451000 0.722000 1.000000
+# diffuse color
+diffuse_color 0.161000 0.451000 0.722000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5013"
+# ambient color
+ambient_color 0.000000 0.071000 0.271000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.071000 0.271000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5014"
+# ambient color
+ambient_color 0.302000 0.412000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.302000 0.412000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5015"
+# ambient color
+ambient_color 0.090000 0.380000 0.671000 1.000000
+# diffuse color
+diffuse_color 0.090000 0.380000 0.671000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5017"
+# ambient color
+ambient_color 0.000000 0.231000 0.502000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.231000 0.502000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5018"
+# ambient color
+ambient_color 0.220000 0.580000 0.510000 1.000000
+# diffuse color
+diffuse_color 0.220000 0.580000 0.510000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5019"
+# ambient color
+ambient_color 0.039000 0.259000 0.471000 1.000000
+# diffuse color
+diffuse_color 0.039000 0.259000 0.471000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5020"
+# ambient color
+ambient_color 0.020000 0.200000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.020000 0.200000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5021"
+# ambient color
+ambient_color 0.102000 0.478000 0.388000 1.000000
+# diffuse color
+diffuse_color 0.102000 0.478000 0.388000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5022"
+# ambient color
+ambient_color 0.000000 0.031000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.031000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5023"
+# ambient color
+ambient_color 0.180000 0.322000 0.561000 1.000000
+# diffuse color
+diffuse_color 0.180000 0.322000 0.561000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral5024"
+# ambient color
+ambient_color 0.341000 0.549000 0.710000 1.000000
+# diffuse color
+diffuse_color 0.341000 0.549000 0.710000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6000"
+# ambient color
+ambient_color 0.200000 0.471000 0.329000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.471000 0.329000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6001"
+# ambient color
+ambient_color 0.149000 0.400000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.400000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6002"
+# ambient color
+ambient_color 0.149000 0.341000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.341000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6003"
+# ambient color
+ambient_color 0.239000 0.271000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.239000 0.271000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6004"
+# ambient color
+ambient_color 0.051000 0.231000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.051000 0.231000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6005"
+# ambient color
+ambient_color 0.039000 0.220000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.039000 0.220000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6006"
+# ambient color
+ambient_color 0.161000 0.169000 0.141000 1.000000
+# diffuse color
+diffuse_color 0.161000 0.169000 0.141000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6007"
+# ambient color
+ambient_color 0.110000 0.149000 0.090000 1.000000
+# diffuse color
+diffuse_color 0.110000 0.149000 0.090000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6008"
+# ambient color
+ambient_color 0.129000 0.129000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.129000 0.129000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6009"
+# ambient color
+ambient_color 0.090000 0.161000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.090000 0.161000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6010"
+# ambient color
+ambient_color 0.212000 0.412000 0.149000 1.000000
+# diffuse color
+diffuse_color 0.212000 0.412000 0.149000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6011"
+# ambient color
+ambient_color 0.369000 0.490000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.369000 0.490000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6012"
+# ambient color
+ambient_color 0.122000 0.180000 0.169000 1.000000
+# diffuse color
+diffuse_color 0.122000 0.180000 0.169000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6013"
+# ambient color
+ambient_color 0.459000 0.451000 0.310000 1.000000
+# diffuse color
+diffuse_color 0.459000 0.451000 0.310000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6014"
+# ambient color
+ambient_color 0.200000 0.188000 0.149000 1.000000
+# diffuse color
+diffuse_color 0.200000 0.188000 0.149000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6015"
+# ambient color
+ambient_color 0.161000 0.169000 0.149000 1.000000
+# diffuse color
+diffuse_color 0.161000 0.169000 0.149000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6016"
+# ambient color
+ambient_color 0.059000 0.439000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.059000 0.439000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6017"
+# ambient color
+ambient_color 0.251000 0.510000 0.212000 1.000000
+# diffuse color
+diffuse_color 0.251000 0.510000 0.212000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6018"
+# ambient color
+ambient_color 0.310000 0.659000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.310000 0.659000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6019"
+# ambient color
+ambient_color 0.749000 0.890000 0.729000 1.000000
+# diffuse color
+diffuse_color 0.749000 0.890000 0.729000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6020"
+# ambient color
+ambient_color 0.149000 0.220000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.220000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6021"
+# ambient color
+ambient_color 0.522000 0.651000 0.478000 1.000000
+# diffuse color
+diffuse_color 0.522000 0.651000 0.478000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6022"
+# ambient color
+ambient_color 0.169000 0.149000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.169000 0.149000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6024"
+# ambient color
+ambient_color 0.141000 0.569000 0.251000 1.000000
+# diffuse color
+diffuse_color 0.141000 0.569000 0.251000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6025"
+# ambient color
+ambient_color 0.290000 0.431000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.290000 0.431000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6026"
+# ambient color
+ambient_color 0.039000 0.361000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.039000 0.361000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6027"
+# ambient color
+ambient_color 0.490000 0.800000 0.741000 1.000000
+# diffuse color
+diffuse_color 0.490000 0.800000 0.741000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6028"
+# ambient color
+ambient_color 0.149000 0.290000 0.200000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.290000 0.200000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6029"
+# ambient color
+ambient_color 0.071000 0.471000 0.149000 1.000000
+# diffuse color
+diffuse_color 0.071000 0.471000 0.149000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6032"
+# ambient color
+ambient_color 0.161000 0.541000 0.251000 1.000000
+# diffuse color
+diffuse_color 0.161000 0.541000 0.251000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6033"
+# ambient color
+ambient_color 0.259000 0.549000 0.471000 1.000000
+# diffuse color
+diffuse_color 0.259000 0.549000 0.471000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral6034"
+# ambient color
+ambient_color 0.490000 0.741000 0.710000 1.000000
+# diffuse color
+diffuse_color 0.490000 0.741000 0.710000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7000"
+# ambient color
+ambient_color 0.451000 0.522000 0.569000 1.000000
+# diffuse color
+diffuse_color 0.451000 0.522000 0.569000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7001"
+# ambient color
+ambient_color 0.529000 0.580000 0.651000 1.000000
+# diffuse color
+diffuse_color 0.529000 0.580000 0.651000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7002"
+# ambient color
+ambient_color 0.478000 0.459000 0.380000 1.000000
+# diffuse color
+diffuse_color 0.478000 0.459000 0.380000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7003"
+# ambient color
+ambient_color 0.439000 0.439000 0.380000 1.000000
+# diffuse color
+diffuse_color 0.439000 0.439000 0.380000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7004"
+# ambient color
+ambient_color 0.612000 0.612000 0.651000 1.000000
+# diffuse color
+diffuse_color 0.612000 0.612000 0.651000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7005"
+# ambient color
+ambient_color 0.380000 0.412000 0.412000 1.000000
+# diffuse color
+diffuse_color 0.380000 0.412000 0.412000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7006"
+# ambient color
+ambient_color 0.420000 0.380000 0.380000 1.000000
+# diffuse color
+diffuse_color 0.420000 0.380000 0.380000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7008"
+# ambient color
+ambient_color 0.412000 0.329000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.412000 0.329000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7009"
+# ambient color
+ambient_color 0.302000 0.322000 0.290000 1.000000
+# diffuse color
+diffuse_color 0.302000 0.322000 0.290000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7010"
+# ambient color
+ambient_color 0.290000 0.310000 0.290000 1.000000
+# diffuse color
+diffuse_color 0.290000 0.310000 0.290000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7011"
+# ambient color
+ambient_color 0.251000 0.290000 0.329000 1.000000
+# diffuse color
+diffuse_color 0.251000 0.290000 0.329000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7012"
+# ambient color
+ambient_color 0.290000 0.329000 0.349000 1.000000
+# diffuse color
+diffuse_color 0.290000 0.329000 0.349000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7013"
+# ambient color
+ambient_color 0.278000 0.259000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.278000 0.259000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7015"
+# ambient color
+ambient_color 0.239000 0.259000 0.322000 1.000000
+# diffuse color
+diffuse_color 0.239000 0.259000 0.322000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7016"
+# ambient color
+ambient_color 0.149000 0.180000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.180000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7021"
+# ambient color
+ambient_color 0.102000 0.129000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.102000 0.129000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7022"
+# ambient color
+ambient_color 0.239000 0.239000 0.231000 1.000000
+# diffuse color
+diffuse_color 0.239000 0.239000 0.231000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7023"
+# ambient color
+ambient_color 0.478000 0.490000 0.459000 1.000000
+# diffuse color
+diffuse_color 0.478000 0.490000 0.459000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7024"
+# ambient color
+ambient_color 0.188000 0.220000 0.271000 1.000000
+# diffuse color
+diffuse_color 0.188000 0.220000 0.271000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7026"
+# ambient color
+ambient_color 0.149000 0.200000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.149000 0.200000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7030"
+# ambient color
+ambient_color 0.569000 0.561000 0.529000 1.000000
+# diffuse color
+diffuse_color 0.569000 0.561000 0.529000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7031"
+# ambient color
+ambient_color 0.302000 0.361000 0.420000 1.000000
+# diffuse color
+diffuse_color 0.302000 0.361000 0.420000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7032"
+# ambient color
+ambient_color 0.741000 0.729000 0.671000 1.000000
+# diffuse color
+diffuse_color 0.741000 0.729000 0.671000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7033"
+# ambient color
+ambient_color 0.478000 0.510000 0.459000 1.000000
+# diffuse color
+diffuse_color 0.478000 0.510000 0.459000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7034"
+# ambient color
+ambient_color 0.561000 0.529000 0.439000 1.000000
+# diffuse color
+diffuse_color 0.561000 0.529000 0.439000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7035"
+# ambient color
+ambient_color 0.831000 0.851000 0.859000 1.000000
+# diffuse color
+diffuse_color 0.831000 0.851000 0.859000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7036"
+# ambient color
+ambient_color 0.620000 0.588000 0.612000 1.000000
+# diffuse color
+diffuse_color 0.620000 0.588000 0.612000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7037"
+# ambient color
+ambient_color 0.478000 0.490000 0.502000 1.000000
+# diffuse color
+diffuse_color 0.478000 0.490000 0.502000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7038"
+# ambient color
+ambient_color 0.729000 0.741000 0.729000 1.000000
+# diffuse color
+diffuse_color 0.729000 0.741000 0.729000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7039"
+# ambient color
+ambient_color 0.380000 0.369000 0.349000 1.000000
+# diffuse color
+diffuse_color 0.380000 0.369000 0.349000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7040"
+# ambient color
+ambient_color 0.620000 0.639000 0.690000 1.000000
+# diffuse color
+diffuse_color 0.620000 0.639000 0.690000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7042"
+# ambient color
+ambient_color 0.561000 0.588000 0.600000 1.000000
+# diffuse color
+diffuse_color 0.561000 0.588000 0.600000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7043"
+# ambient color
+ambient_color 0.251000 0.271000 0.271000 1.000000
+# diffuse color
+diffuse_color 0.251000 0.271000 0.271000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7044"
+# ambient color
+ambient_color 0.761000 0.749000 0.722000 1.000000
+# diffuse color
+diffuse_color 0.761000 0.749000 0.722000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7045"
+# ambient color
+ambient_color 0.561000 0.580000 0.620000 1.000000
+# diffuse color
+diffuse_color 0.561000 0.580000 0.620000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7046"
+# ambient color
+ambient_color 0.471000 0.510000 0.549000 1.000000
+# diffuse color
+diffuse_color 0.471000 0.510000 0.549000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral7047"
+# ambient color
+ambient_color 0.851000 0.839000 0.859000 1.000000
+# diffuse color
+diffuse_color 0.851000 0.839000 0.859000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8000"
+# ambient color
+ambient_color 0.490000 0.361000 0.220000 1.000000
+# diffuse color
+diffuse_color 0.490000 0.361000 0.220000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8001"
+# ambient color
+ambient_color 0.569000 0.322000 0.180000 1.000000
+# diffuse color
+diffuse_color 0.569000 0.322000 0.180000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8002"
+# ambient color
+ambient_color 0.431000 0.231000 0.188000 1.000000
+# diffuse color
+diffuse_color 0.431000 0.231000 0.188000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8003"
+# ambient color
+ambient_color 0.451000 0.231000 0.141000 1.000000
+# diffuse color
+diffuse_color 0.451000 0.231000 0.141000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8004"
+# ambient color
+ambient_color 0.522000 0.220000 0.169000 1.000000
+# diffuse color
+diffuse_color 0.522000 0.220000 0.169000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "brown"
+# ambient color
+ambient_color 0.369000 0.200000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.369000 0.200000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8008"
+# ambient color
+ambient_color 0.388000 0.239000 0.141000 1.000000
+# diffuse color
+diffuse_color 0.388000 0.239000 0.141000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8011"
+# ambient color
+ambient_color 0.278000 0.149000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.278000 0.149000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8012"
+# ambient color
+ambient_color 0.329000 0.122000 0.122000 1.000000
+# diffuse color
+diffuse_color 0.329000 0.122000 0.122000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8014"
+# ambient color
+ambient_color 0.220000 0.149000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.220000 0.149000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8015"
+# ambient color
+ambient_color 0.302000 0.122000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.302000 0.122000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8016"
+# ambient color
+ambient_color 0.239000 0.122000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.239000 0.122000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8017"
+# ambient color
+ambient_color 0.180000 0.110000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.180000 0.110000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8019"
+# ambient color
+ambient_color 0.169000 0.149000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.169000 0.149000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8022"
+# ambient color
+ambient_color 0.051000 0.031000 0.051000 1.000000
+# diffuse color
+diffuse_color 0.051000 0.031000 0.051000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8023"
+# ambient color
+ambient_color 0.612000 0.271000 0.161000 1.000000
+# diffuse color
+diffuse_color 0.612000 0.271000 0.161000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8024"
+# ambient color
+ambient_color 0.431000 0.251000 0.188000 1.000000
+# diffuse color
+diffuse_color 0.431000 0.251000 0.188000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8025"
+# ambient color
+ambient_color 0.400000 0.290000 0.239000 1.000000
+# diffuse color
+diffuse_color 0.400000 0.290000 0.239000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral8028"
+# ambient color
+ambient_color 0.251000 0.180000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.251000 0.180000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9001"
+# ambient color
+ambient_color 1.000000 0.988000 0.941000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.988000 0.941000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9002"
+# ambient color
+ambient_color 0.941000 0.929000 0.902000 1.000000
+# diffuse color
+diffuse_color 0.941000 0.929000 0.902000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9003"
+# ambient color
+ambient_color 1.000000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9004"
+# ambient color
+ambient_color 0.110000 0.110000 0.129000 1.000000
+# diffuse color
+diffuse_color 0.110000 0.110000 0.129000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9005"
+# ambient color
+ambient_color 0.012000 0.020000 0.039000 1.000000
+# diffuse color
+diffuse_color 0.012000 0.020000 0.039000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9006"
+# ambient color
+ambient_color 0.651000 0.671000 0.710000 1.000000
+# diffuse color
+diffuse_color 0.651000 0.671000 0.710000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9007"
+# ambient color
+ambient_color 0.490000 0.478000 0.471000 1.000000
+# diffuse color
+diffuse_color 0.490000 0.478000 0.471000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9010"
+# ambient color
+ambient_color 0.980000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.980000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "black"
+# ambient color
+ambient_color 0.051000 0.071000 0.102000 1.000000
+# diffuse color
+diffuse_color 0.051000 0.071000 0.102000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9016"
+# ambient color
+ambient_color 0.988000 1.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.988000 1.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9017"
+# ambient color
+ambient_color 0.078000 0.090000 0.110000 1.000000
+# diffuse color
+diffuse_color 0.078000 0.090000 0.110000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "ral9018"
+# ambient color
+ambient_color 0.859000 0.890000 0.871000 1.000000
+# diffuse color
+diffuse_color 0.859000 0.890000 0.871000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 0.950000
+# ambient
+ambient 0.950000
+# shine
+shine 0.050000
+# shine intensity
+intensity 0.300000
+# reflection
+reflection 0.040000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "red"
+# ambient color
+ambient_color 1.000000 0.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 0.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.000000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "yellow"
+# ambient color
+ambient_color 1.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 1.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.000000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "green"
+# ambient color
+ambient_color 0.000000 1.000000 0.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 1.000000 0.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.000000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "blue"
+# ambient color
+ambient_color 0.000000 0.000000 1.000000 1.000000
+# diffuse color
+diffuse_color 0.000000 0.000000 1.000000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.000000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
+# material name
+material_name "magenta"
+# ambient color
+ambient_color 0.509000 0.000000 0.509000 1.000000
+# diffuse color
+diffuse_color 0.509000 0.000000 0.509000 1.000000
+# specular color
+specular_color 1.000000 1.000000 1.000000 1.000000
+# diffuse
+diffuse 1.000000
+# ambient
+ambient 1.000000
+# shine
+shine 0.500000
+# shine intensity
+intensity 0.500000
+# reflection
+reflection 0.000000
+# transparency
+transparency 0.000000
+# fresnel index of refraction
+index_of_refraction 1.000000
+# fresnel reflections
+fresnel_reflections 0
