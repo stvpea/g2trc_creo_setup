@@ -32,15 +32,17 @@ if os.path.exists(CREO_DIR):
     # not require admin rights.
     with open(pro_file, 'w+') as pf:
         print('Creating config.pro...')
-        # Add the system colours option to config.pro. We do it here since
-        # Creo will not expand env variables for this option (for unknown
-        # reason).
-        sp = os.path.join(prefs_dir, 'syscol.scl')
-        pf.write("system_colors_file {}\n\n".format(sp))
 
         for f in src_pro_files:
             with open(f) as src_file:
                 pf.write(src_file.read())
+
+        # Add the system colours option to config.pro. We do it here since
+        # Creo will not expand env variables for this option (for unknown
+        # reason).
+        sp = os.path.join(prefs_dir, 'syscol.scl')
+        pf.write("\nsystem_colors_file {}\n".format(sp))
+        pf.close()
 else:
     print("unable to launch Creo, no standards directory found...")
     sys.exit(1)
