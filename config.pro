@@ -1,21 +1,26 @@
-!! STANDARD CONFIG OPTIONS
-!! NOTE $USERPROFILE will not work for the system_colors_file option
-!! ============================
+!! ============================================================================
+!! Standard configuration options
+!!
+!! These may be overridden by $userprofile/.creo_personal/config.pro but
+!! caution should be used!
+!!
+!! Steve Pearson 2016/12/05
+!! ============================================================================
 
 !! Hidden Options
-!! =========================
+!! ==============
 
 default_chamfer_scheme 45xd
 windows_browser_type chromium_browser
 
 !! Modelling Options
-!! =========================
+!! =================
 
 show_axes_for_extr_arcs yes
 enable_auto_regen yes
 
 !! UI Options
-!! =========================
+!! ==========
 
 visible_message_lines 2
 new_relation_ui yes
@@ -25,7 +30,7 @@ enable_popup_help yes
 param_dec_places 3
 
 !! Environment Options
-!! =========================
+!! ===================
 
 bell no
 pro_unit_sys mmks
@@ -34,7 +39,7 @@ spin_center_display yes
 mass_property_calculate automatic
 
 !! Model Display Options
-!! =========================
+!! =====================
 
 display shadewithedges
 display_annotations no
@@ -52,17 +57,17 @@ blended_transparency yes
 edge_display_quality very_high
 
 !! Layer Options
-!! =========================
+!! =============
 !! Layers are now rule based (set in the template asm and prt files).
 
 !! File I/O Options
-!! =========================
+!! ================
 
 menu_show_instances no
 rename_drawings_with_object both
 
 !! Feature Options
-!! =========================
+!! ===============
 
 allow_udf_style_cosm_threads no
 millimeter_grid_interval 1
@@ -71,7 +76,7 @@ user_defined_grid_interval 10
 hole_file_resolution use_internal
 
 !! Sketcher Options
-!! =========================
+!! ================
 
 sketcher_refit_after_dim_modify no
 sketcher_starts_in_2d yes
@@ -92,7 +97,7 @@ pdf_linecap round
 pdf_linejoin miter
 
 !! Drawing Options
-!! =========================
+!! ===============
 
 todays_date_note_format %yyyy-%mm-%dd
 auto_regen_views yes
@@ -103,7 +108,7 @@ show_axes_by_view_scope all_sub_models
 allow_move_view_with_move yes
 
 !! Assembly Options
-!! =========================
+!! ================
 
 autoplace_single_comp yes
 create_temp_interfaces yes
@@ -118,18 +123,18 @@ comp_angle_offset_eps 91
 comp_normal_offset_eps -1
 
 !! Colour Options
-!! =========================
+!! ==============
 
 system_background_color 85.098039 85.098039 85.098039
 
 !! Data Exchange Options
-!! =========================
+!! =====================
 
 fix_autocad_iges_text_scale yes
 use_export_2d_dialog yes
 
 !! Dimension & Tolerance Options
-!! =========================
+!! =============================
 
 default_dec_places 3
 tolerance_standard iso
@@ -140,7 +145,6 @@ maintain_limit_tol_nominal yes
 !! Windchill paths are of the form:
 !! wtpub://<alias server name>/Libraries/<Library name>/<folder>/<CAD Document file name>|V=<insert_version_here>
 !! if |V=<insert_version_here> is omitted then the latest version is used.
-!! =========================
 
 start_model_dir wtpub://windchill/Libraries/Parts Catalog/Templates
 template_solidpart wtpub://windchill/Libraries/Parts Catalog/Templates/mmks_part_solid.prt
@@ -163,7 +167,6 @@ restricted_val_definition  wtpub://windchill/Libraries/Parts Catalog/Templates/r
 !! Local paths
 !! ===========
 !! These are deliberately local so that a user may override/modify them.
-!! =========================
 
 symbol_instance_palette_file $USERPROFILE\.creo_personal\sym_palette.drw
 !pro_note_dir $USERPROFILE\.creo_personal\notes\
@@ -173,7 +176,7 @@ pro_colormap_path $USERPROFILE\.creo_personal\colours
 pro_library_dir $USERPROFILE\ProStandards\objlib
 
 !! Windchill
-!! =========================
+!! =========
 
 allow_import_file_extension txt,sym,tbl,xml,mtl,pro,dmt,dtl,hol,pcf,pnt
 !! sets the format for parameters such as PTC_WM_MODIFIED_ON
@@ -182,7 +185,7 @@ date_type_parameter_format %yyyy-%mm-%ddT%Hh:%mi:%ss
 
 !!
 !! Unused options
-!! =========================
+!! ==============
 
 !save_texture_with_model yes
 !pro_texture_library c:\ptc\graphics\
@@ -190,19 +193,13 @@ date_type_parameter_format %yyyy-%mm-%ddT%Hh:%mi:%ss
 
 search_path_file $USERPROFILE\ProStandards\Configs\search.pro
 
-
-
-
-
 !! Misc. options
-!! =================================
+!! =============
 
 save_dialog_for_existing_models no
 
-
-
-
-!! ========== mapkeys ==========
+!! Mapkeys
+!! =======
 !! prints to a PS file, expects a pcf file called <PS File - Full Plot>
 mapkey $F2 @MAPKEY_NAMEprints to a PS file;@MAPKEY_LABELprint2ps;\
 mapkey(continued) ~ Close `main_dlg_cur` `appl_casc`;~ Command `ProCmdModelPrint` ;\

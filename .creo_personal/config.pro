@@ -1,2 +1,5 @@
+!! ============================================================================
 !! Personal Config.pro
-!! Any settings in here will override the defaults.
+!!
+!! Any settings in here will override the defaults - do so carefully!
+!! ============================================================================
