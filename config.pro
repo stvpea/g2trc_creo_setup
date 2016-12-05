@@ -1,4 +1,4 @@
-﻿!! STANDARD CONFIG OPTIONS
+!! STANDARD CONFIG OPTIONS
 !! NOTE $USERPROFILE will not work for the system_colors_file option
 !! ============================
 
