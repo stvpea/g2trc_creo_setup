@@ -43,6 +43,7 @@ if os.path.exists(CREO_DIR):
         )
 
         for f in src_pro_files:
+            pf.write("\n!! src file: {}\n".format(f))
             with open(f) as src_file:
                 pf.write(src_file.read())
 
