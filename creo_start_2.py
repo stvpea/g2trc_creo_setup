@@ -36,7 +36,7 @@ if os.path.exists(CREO_DIR):
         # Creo will not expand env variables for this option (for unknown
         # reason).
         sp = os.path.join(prefs_dir, 'syscol.scl')
-        pf.write("system_colors_file {}".format(sp))
+        pf.write("system_colors_file {}\n\n".format(sp))
 
         for f in src_pro_files:
             with open(f) as src_file:
