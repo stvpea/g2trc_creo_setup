@@ -90,8 +90,8 @@ sketcher_lock_modified_dims yes
 
 use_8_plotter_pens yes
 use_software_linefonts yes
-pro_plot_config_dir wtpub://windchill/Libraries/Parts Catalog/Plot Config
-pen_table_file wtpub://windchill/Libraries/Parts Catalog/Plot Config/pentable.pnt
+pro_plot_config_dir wtpub://windchill/Libraries/Creo Standards/Plot Config
+pen_table_file wtpub://windchill/Libraries/Creo Standards/Plot Config/pentable.pnt
 pdf_use_pentable yes
 pdf_linecap round
 pdf_linejoin miter
@@ -146,23 +146,23 @@ maintain_limit_tol_nominal yes
 !! wtpub://<alias server name>/Libraries/<Library name>/<folder>/<CAD Document file name>|V=<insert_version_here>
 !! if |V=<insert_version_here> is omitted then the latest version is used.
 
-start_model_dir wtpub://windchill/Libraries/Parts Catalog/Templates
-template_solidpart wtpub://windchill/Libraries/Parts Catalog/Templates/mmks_part_solid.prt
-template_designasm wtpub://windchill/Libraries/Parts Catalog/Templates/mmks_asm_design.asm
-template_drawing wtpub://windchill/Libraries/Parts Catalog/Templates/a2_template_g2trc.drw
-pro_material_dir wtpub://windchill/Libraries/Parts Catalog/Materials
+start_model_dir wtpub://windchill/Libraries/Creo Standards/Templates
+template_solidpart wtpub://windchill/Libraries/Creo Standards/Templates/mmks_part_solid.prt
+template_designasm wtpub://windchill/Libraries/Creo Standards/Templates/mmks_asm_design.asm
+template_drawing wtpub://windchill/Libraries/Creo Standards/Templates/a2_template_g2trc.drw
+pro_material_dir wtpub://windchill/Libraries/Creo Standards/Materials
 !!
 !! This does not seem to work from Windchill.
-!! pro_colormap_path wtpub://windchill/Libraries/Parts Catalog/Appearances
-!! global_appearance_file wtpub://windchill/Libraries/Parts Catalog/Appearances/global.dmt
+!! pro_colormap_path wtpub://windchill/Libraries/Creo Standards/Appearances
+!! global_appearance_file wtpub://windchill/Libraries/Creo Standards/Appearances/global.dmt
 !!
-pro_format_dir wtpub://windchill/Libraries/Parts Catalog/Formats
-pro_table_dir wtpub://windchill/Libraries/Parts Catalog/Tables
-drawing_setup_file wtpub://windchill/Libraries/Parts Catalog/Drawing Setup/bs8888.dtl
-pro_dtl_setup_dir  wtpub://windchill/Libraries/Parts Catalog/Drawing Setup
-pro_symbol_dir wtpub://windchill/Libraries/Parts Catalog/Symbols
-hole_parameter_file_path wtpub://windchill/Libraries/Parts Catalog/Holes
-restricted_val_definition  wtpub://windchill/Libraries/Parts Catalog/Templates/restricted_vals.lst
+pro_format_dir wtpub://windchill/Libraries/Creo Standards/Formats
+pro_table_dir wtpub://windchill/Libraries/Creo Standards/Tables
+drawing_setup_file wtpub://windchill/Libraries/Creo Standards/Drawing Setup/bs8888.dtl
+pro_dtl_setup_dir  wtpub://windchill/Libraries/Creo Standards/Drawing Setup
+pro_symbol_dir wtpub://windchill/Libraries/Creo Standards/Symbols
+hole_parameter_file_path wtpub://windchill/Libraries/Creo Standards/Holes
+restricted_val_definition  wtpub://windchill/Libraries/Creo Standards/Templates/restricted_vals.lst
 
 !! Local paths
 !! ===========
