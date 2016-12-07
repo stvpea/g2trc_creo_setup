@@ -10,6 +10,7 @@
 !! Hidden Options
 !! ==============
 
+dm_prolib_mnu_files yes
 default_chamfer_scheme 45xd
 windows_browser_type chromium_browser
 
