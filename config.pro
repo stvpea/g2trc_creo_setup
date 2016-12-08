@@ -179,7 +179,7 @@ pro_library_dir $USERPROFILE\ProStandards\objlib
 !! Windchill
 !! =========
 
-allow_import_file_extension txt,sym,tbl,xml,mtl,pro,dmt,dtl,hol,pcf,pnt
+allow_import_file_extension txt,sym,tbl,xml,mtl,pro,dmt,dtl,hol,pcf,pnt,mnu
 !! sets the format for parameters such as PTC_WM_MODIFIED_ON
 !! Syntax of the form %yyyy-%mm-%ddT%Hh:%mi:%ss
 date_type_parameter_format %yyyy-%mm-%ddT%Hh:%mi:%ss
