@@ -198,6 +198,7 @@ search_path_file $USERPROFILE\ProStandards\Configs\search.pro
 !! =============
 
 save_dialog_for_existing_models no
+dxf_out_drawing_scale yes
 
 !! Mapkeys
 !! =======
