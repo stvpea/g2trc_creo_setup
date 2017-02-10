@@ -107,6 +107,7 @@ make_aux_view_notes yes
 save_drawing_picture_file embed
 show_axes_by_view_scope all_sub_models
 allow_move_view_with_move yes
+parenthesize_ref_dim yes
 
 !! Assembly Options
 !! ================
