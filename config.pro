@@ -202,6 +202,10 @@ search_path_file $USERPROFILE\ProStandards\Configs\search.pro
 
 save_dialog_for_existing_models no
 dxf_out_drawing_scale yes
+!! This will update the pro_mp_mass parameter to reflect the components shown
+!! in the simplified rep i.e., the drawing mass will be correct. NB the drawing
+!! will show the mass of whichever is the current active rep.
+force_upd_assem_mp_in_simp_rep yes
 
 !! Mapkeys
 !! =======
