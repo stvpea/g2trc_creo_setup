@@ -14,6 +14,7 @@ A simple batch file calls the two scripts and launches Creo if there is no error
 ## Requirements ##
 1. Mercurial (install TortoiseHg)
 2. Python 3.x (install Anaconda Python)
+3. Ensure that the user has a "HOME" env var.
 
 ## Installation ##
 Run install.py:
