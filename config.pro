@@ -168,7 +168,6 @@ pro_symbol_dir wtpub://windchill/Libraries/Creo Standards/Symbols
 hole_parameter_file_path wtpub://windchill/Libraries/Creo Standards/Holes
 restricted_val_definition  wtpub://windchill/Libraries/Creo Standards/Templates/restricted_vals.lst
 pro_library_dir wtpub://windchill/Libraries/Standard Parts
-rename_drawings_with_object both
 
 !! Local paths
 !! ===========
