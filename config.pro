@@ -155,6 +155,7 @@ template_solidpart wtpub://windchill/Libraries/Creo Standards/Templates/mmks_par
 template_designasm wtpub://windchill/Libraries/Creo Standards/Templates/mmks_asm_design.asm
 template_drawing wtpub://windchill/Libraries/Creo Standards/Templates/a2_template_g2trc.drw
 pro_material_dir wtpub://windchill/Libraries/Creo Standards/Materials
+pro_surface_finish_dir wtpub://windchill/Libraries/Creo Standards/Surface Finish/
 !!
 !! This does not seem to work from Windchill.
 !! pro_colormap_path wtpub://windchill/Libraries/Creo Standards/Appearances
