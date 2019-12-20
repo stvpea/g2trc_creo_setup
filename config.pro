@@ -169,13 +169,13 @@ pro_symbol_dir wtpub://windchill/Libraries/Creo Standards/Symbols
 hole_parameter_file_path wtpub://windchill/Libraries/Creo Standards/Holes
 restricted_val_definition  wtpub://windchill/Libraries/Creo Standards/Templates/restricted_vals.lst
 pro_library_dir wtpub://windchill/Libraries/Standard Parts
+pro_note_dir wtpub://windchill/Libraries/Creo Standards/Notes
 
 !! Local paths
 !! ===========
 !! These are deliberately local so that a user may override/modify them.
 
 symbol_instance_palette_file $USERPROFILE\.creo_personal\sym_palette.drw
-!pro_note_dir $USERPROFILE\.creo_personal\notes\
 trail_dir $USERPROFILE\.creo_trail_files
 mdl_tree_cfg_file $USERPROFILE\.creo_personal\tree.cfg
 pro_colormap_path $USERPROFILE\.creo_personal\colours
