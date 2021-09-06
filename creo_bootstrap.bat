@@ -17,7 +17,7 @@
 :: 1. Python (does the heavy lifting)
 
 set root_dir=%LOCALAPPDATA%\g2trc_creo_boot
-set repo=https://stevepearson@bitbucket.org/stevepearson/g2trc_creo_setup
+set repo=https://github.com/stvpea/g2trc_creo_setup.git
 set std_dir=%root_dir%\creo_standards
 set creo_trail_dir=%USERPROFILE%\.creo_trail_files
 
