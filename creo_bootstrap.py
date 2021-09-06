@@ -10,6 +10,10 @@ CREO_TRAIL_DIR = sys.argv[3]
 
 print("**This is the bootloader**")
 
+def remove_readonly(func, path, excinfo):
+    os.chmod(path, stat.S_IWRITE)
+    func(path)
+
 if not os.path.exists(CREO_TRAIL_DIR):
     os.mkdir(CREO_TRAIL_DIR)
 
@@ -22,7 +26,7 @@ with tempfile.TemporaryDirectory() as td:
 
         if os.path.exists(CREO_DIR):
             print("Replacing old Creo standards")
-            shutil.rmtree(CREO_DIR)
+            shutil.rmtree(CREO_DIR, onerror=remove_readonly)
 
         shutil.copytree(td, CREO_DIR)
 
