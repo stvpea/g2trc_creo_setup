@@ -2,6 +2,7 @@ import subprocess
 import tempfile
 import os
 import shutil
+import stat
 import sys
 
 REPO = sys.argv[1]
