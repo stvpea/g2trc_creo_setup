@@ -18,7 +18,7 @@ if not os.path.exists(CREO_TRAIL_DIR):
 with tempfile.TemporaryDirectory() as td:
     try:
         print("Cloning new Creo standards")
-        subprocess.run("git clone clone -q {} {}".format(REPO, td), shell=True, check=True)
+        subprocess.run("git clone -q {} {}".format(REPO, td), shell=True, check=True)
 
         if os.path.exists(CREO_DIR):
             print("Replacing old Creo standards")
