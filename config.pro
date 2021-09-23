@@ -254,3 +254,28 @@ mapkey(continued) ~ RButtonArm `main_dlg_cur` `PHTLeft.PHLayerUI.AssyTree` `node
 mapkey(continued) ~ Command `ProCmdViewShow`;\
 mapkey(continued) ~ Command `ProCmdLayer_ShowMdlTree` ;\
 mapkey(continued) ~ Command `ProCmdViewRepaint`;
+
+mapkey $F7 @MAPKEY_LABELSave Image;~ Close `main_dlg_cur` `appl_casc`;\
+mapkey(continued) ~ Command `ProCmdRibbonOptionsDlg` ;\
+mapkey(continued) ~ Select `ribbon_options_dialog` `PageSwitcherPageList` 1 `colors_layouts`;\
+mapkey(continued) ~ Open `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu`;\
+mapkey(continued) ~ Close `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu`;\
+mapkey(continued) ~ Select `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu` 1 `2`;\
+mapkey(continued) ~ Activate `ribbon_options_dialog` `OkPshBtn`;\
+mapkey(continued) ~ Close `main_dlg_cur` `appl_casc`;~ Command `ProCmdModelSaveAs` ;\
+mapkey(continued) ~ Open `file_saveas` `type_option`;~ Close `file_saveas` `type_option`;\
+mapkey(continued) ~ Select `file_saveas` `type_option` 1 `db_566`;\
+mapkey(continued) ~ Activate `file_saveas` `desktop_pb`;~ Open `file_saveas` `type_option`;\
+mapkey(continued) ~ Close `file_saveas` `type_option`;\
+mapkey(continued) ~ Select `file_saveas` `type_option` 1 `db_566`;\
+mapkey(continued) @MANUAL_PAUSEEnter a filename...;~ Activate `file_saveas` `OK`;\
+mapkey(continued) ~ Open `shd_img_param` `o_size`;~ Close `shd_img_param` `o_size`;\
+mapkey(continued) ~ Select `shd_img_param` `o_size` 1 `A4`;~ Open `shd_img_param` `o_dpi`;\
+mapkey(continued) ~ Close `shd_img_param` `o_dpi`;~ Select `shd_img_param` `o_dpi` 1 `dpi600`;\
+mapkey(continued) ~ Activate `shd_img_param` `OK`;~ Select `main_dlg_cur` `appl_casc`;\
+mapkey(continued) ~ Close `main_dlg_cur` `appl_casc`;~ Command `ProCmdRibbonOptionsDlg` ;\
+mapkey(continued) ~ Select `ribbon_options_dialog` `PageSwitcherPageList` 1 `colors_layouts`;\
+mapkey(continued) ~ Open `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu`;\
+mapkey(continued) ~ Close `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu`;\
+mapkey(continued) ~ Select `ribbon_options_dialog` `colors_layouts.Color_scheme_optMenu` 1 \
+mapkey(continued) `Custom`;~ Activate `ribbon_options_dialog` `OkPshBtn`;
